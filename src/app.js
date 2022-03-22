@@ -76,7 +76,6 @@ function noOfChocolates(chocolates)
      for(let i in obj){
          count[j]=obj[i];
          j++;
-    
      }
     return count;
   }
